@@ -1,5 +1,3 @@
-<img src="rafal_profile.jpg" alt="Rafal Urbaniak" width="180" align="right" />
-
 # Rafal Urbaniak
 
 I am a researcher working on causal explanation, attribution, and counterfactual reasoning under uncertainty, and on the formal and statistical foundations of probabilistic legal reasoning. My work sits on the line between formal methods — logic, probability, structural causal models — and applied probabilistic modeling, with a particular emphasis on spatio-temporal causal models for decision-relevant problems.
